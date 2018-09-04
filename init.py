@@ -21,7 +21,8 @@ cursor.execute("""
             age integer not null,
             snils text,
             birthdate text,
-            phone text
+            phone text,
+            CONSTRAINT snils_unique UNIQUE (snils)
         )
     """)
 
@@ -47,6 +48,5 @@ cursor.execute("""
 if __name__ == '__main__':
     conn.commit()
 
-    cursor.execute('select* from person')
-    print(cursor.fetchall())
-    # print(CPerson)
+
+

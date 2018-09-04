@@ -18,10 +18,12 @@ class CPerson(CBase):
     birthdate = Column(Unicode, nullable=False)
     phone = Column(Unicode)
 
-    def __repr__(self):
-        return 'CPerson<id = %d, lastname = %s, firstname = %s, secondname = %s, age = %d, snils = %s, birthdate = %s, phone = %s>' % (self.id, self.lastname, self.firstname\
+    snils_unique = UniqueConstraint('snils')
 
-                                                                                                                                           ,self.secondname, self.age, self.snils, self.birthdate, self.phone)
+    def __repr__(self):
+        return 'CPerson<id = %d, lastname = %s, firstname = %s, secondname = %s, age = %d, snils = %s, birthdate = %s, phone = %s>' % (self.id, self.lastname, self.firstname,\
+                                                                                                                                           self.secondname, self.age, self.snils, self.birthdate, self.phone)
+
 class CAddress(CBase):
 
     __tablename__ = 'address'
@@ -36,9 +38,11 @@ class CAddress(CBase):
     house = Column(Integer(), nullable=False)
     apartment = Column(Integer())
 
+    p_person_id = relationship('CPerson', foreign_keys=[person_id])
+
     def __repr__(self):
-        return 'CAddress<id = %d, zipcode = %s, address_type = %s, district_name = %s, city_name = %s, street_name = %s, house = %d, apartment = %d>' % (
-        self.id, self.zipcode,self.country, self.region, self.type_place, self.place_name, self.street_name, self.house, self.apartment)
+        return 'CAddress<id = %d, person_id = %d, zipcode = %s, country = %s, region = %s, type_place =  = %s, place_name = %s, street_name = %s, house = %d, apartment = %d>' % (
+        self.id, self.person_id, self.zipcode, self.country, self.region, self.type_place, self.place_name, self.street_name, self.house, self.apartment)
 
 
 if __name__ == '__main__':
@@ -47,6 +51,16 @@ if __name__ == '__main__':
     path_db = 'sqlite:///' + name_db
     engine = create_engine(path_db)
     session = sessionmaker(bind=engine)()
+
+
+    # result = session.query(CPerson).all()
+    # print(result)
+    result = session.query(CAddress).all()
+    print(result)
+    # person_id = session.query(CPerson.id).order_by(CPerson.id.desc()).first()
+    # # order_by(User.id)
+    # print(person_id[0])
+
 
     result = session.query(CPerson).all()
     print(result)
