@@ -5,3 +5,4 @@ print([i for i in os.listdir() if not os.path.isdir(i)])
 #     print
 
 dir_path = os.path.join(path, 'Nmae_dir')
+print('123')
