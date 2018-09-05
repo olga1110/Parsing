@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
+  <Id>7a0f6f87-7681-4e4f-b9d8-fad0df655778</Id>
+  <Buro>
+    <ct:ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:ShortName>
+    <ct:FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</ct:FullName>
+    <ct:Specializations />
+    <ct:Number>10</ct:Number>
+    <ct:OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:OrgName>
+  </Buro>
+  <Recipient>
+    <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
+    <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
+    <RecipientType>
+      <ct:Id>1</ct:Id>
+      <ct:Value>ОИВ субъекта РФ в сфере охраны здоровья</ct:Value>
+    </RecipientType>
+  </Recipient>
+  <Number>17.10.86/2018</Number>
+  <ProtocolNum>124.10.86/2018</ProtocolNum>
+  <ProtocolDate>2018-03-23</ProtocolDate>
+  <IsForChild>true</IsForChild>
+  <Person>
+    <Id>dbb9fcbf-a32e-41a0-86fc-3a7047c836e6</Id>
+    <FIO>
+      <ct:LastName>Сидоров</ct:LastName>
+      <ct:FirstName>Андрей</ct:FirstName>
+      <ct:SecondName>Александрович</ct:SecondName>
+    </FIO>
+    <Age>
+      <ct:Years>1</ct:Years>
+    </Age>
+    <Citizenship>
+      <ct:Id>1</ct:Id>
+      <ct:Value>гражданин Российской Федерации</ct:Value>
+    </Citizenship>
+    <SNILS>194-688-238 28</SNILS>
+    <BirthDate>2016-04-10</BirthDate>
+    <LivingAddress>
+      <Type>
+        <ct:Id>1</ct:Id>
+        <ct:Value>Адрес места жительства</ct:Value>
+      </Type>
+      <Value>628485, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Ленинградская ул, д. 17, кв. 15</Value>
+      <Fields>
+        <ZipCode>628485</ZipCode>
+        <Country>Российская Федерация</Country>
+        <TerritorySubjectID>86</TerritorySubjectID>
+        <TerritorySubjectName>Ханты-Мансийский Автономный округ - Югра АО</TerritorySubjectName>
+        <TerritorySubjectGuid>d66e5325-3a25-4d29-ba86-4ca351d9704b</TerritorySubjectGuid>
+        <District />
+        <DistrictGuid xsd:nil="true" />
+        <PlaceTypeId>1</PlaceTypeId>
+        <PlaceTypeName>город</PlaceTypeName>
+        <PlaceKindId>1</PlaceKindId>
+        <PlaceKindName>Городское поселение</PlaceKindName>
+        <Place>Когалым г</Place>
+        <PlaceGuid>5a08166f-cfaa-4e95-8233-f0d473883bd3</PlaceGuid>
+        <CityDistrict />
+        <Street>Ленинградская ул</Street>
+        <StreetGuid>08326baa-f5a0-43b6-980d-cd60f1bb254b</StreetGuid>
+        <House>17</House>
+        <HouseGuid>53de81f4-8ffa-4886-9529-3d0071a8265f</HouseGuid>
+        <Corpus />
+        <Building />
+        <Appartment>15</Appartment>
+      </Fields>
+    </LivingAddress>
+    <HasNoLivingAddress>false</HasNoLivingAddress>
+    <RegAddress xsd:nil="true" />
+    <HasNoRegAddress>false</HasNoRegAddress>
+    <Phones>
+      <Phone>8 953 709 93 93</Phone>
+    </Phones>
+    <Email>evgescha126@mail.ru</Email>
+    <IdentityDoc>
+      <ct:Title>Свидетельство о рождении</ct:Title>
+      <ct:Series>II-ПН</ct:Series>
+      <ct:Number>732027</ct:Number>
+      <ct:Issuer>МО ХМАО-Югры городской округ г. Когалым отдел ЗАГС</ct:Issuer>
+      <ct:IssueDate>2016-04-26</ct:IssueDate>
+    </IdentityDoc>
+    <IsMale>true</IsMale>
+    <FloorOfLiving>5</FloorOfLiving>
+    <PrimaryProfession xsd:nil="true" />
+    <PrimaryProfessionExperience xsd:nil="true" />
+    <Qualification xsd:nil="true" />
+    <CurrentJob />
+  </Person>  
+</tIPRA>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
+  <Id>3dee1deb-4a74-445c-8449-52c81039b808</Id>
+  <Buro>
+    <ct:ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:ShortName>
+    <ct:FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</ct:FullName>
+    <ct:Specializations />
+    <ct:Number>10</ct:Number>
+    <ct:OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:OrgName>
+  </Buro>
+  <Recipient>
+    <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
+    <Address>628002, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
+    <RecipientType>
+      <ct:Id>1</ct:Id>
+      <ct:Value>ОИВ субъекта РФ в сфере охраны здоровья</ct:Value>
+    </RecipientType>
+  </Recipient>
+  <Number>65.10.86/2018</Number>
+  <ProtocolNum>100.10.86/2018</ProtocolNum>
+  <ProtocolDate>2018-03-19</ProtocolDate>
+  <IsForChild>false</IsForChild>
+  <Person>
+    <Id>9c448313-fe09-45f4-9c14-ae6022256771</Id>
+    <FIO>
+      <ct:LastName>Иванова</ct:LastName>
+      <ct:FirstName>Светлана</ct:FirstName>
+      <ct:SecondName>Николаевна</ct:SecondName>
+    </FIO>
+    <Age>
+      <ct:Years>54</ct:Years>
+    </Age>
+    <Citizenship>
+      <ct:Id>1</ct:Id>
+      <ct:Value>гражданин Российской Федерации</ct:Value>
+    </Citizenship>
+    <SNILS>052-991-053 62</SNILS>
+    <BirthDate>1963-09-13</BirthDate>
+    <LivingAddress>
+      <Type>
+        <ct:Id>1</ct:Id>
+        <ct:Value>Адрес места жительства</ct:Value>
+      </Type>
+      <Value>628484, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Ленинградская ул, д. 21, кв. 40</Value>
+      <Fields>
+        <ZipCode>628484</ZipCode>
+        <Country>Российская Федерация</Country>
+        <TerritorySubjectID>86</TerritorySubjectID>
+        <TerritorySubjectName>Ханты-Мансийский Автономный округ - Югра АО</TerritorySubjectName>
+        <TerritorySubjectGuid>d66e5325-3a25-4d29-ba86-4ca351d9704b</TerritorySubjectGuid>
+        <District />
+        <DistrictGuid xsd:nil="true" />
+        <PlaceTypeId>1</PlaceTypeId>
+        <PlaceTypeName>город</PlaceTypeName>
+        <PlaceKindId>1</PlaceKindId>
+        <PlaceKindName>Городское поселение</PlaceKindName>
+        <Place>Когалым г</Place>
+        <PlaceGuid>5a08166f-cfaa-4e95-8233-f0d473883bd3</PlaceGuid>
+        <CityDistrict />
+        <Street>Ленинградская ул</Street>
+        <StreetGuid>08326baa-f5a0-43b6-980d-cd60f1bb254b</StreetGuid>
+        <House>21</House>
+        <HouseGuid>1b2df845-ce0f-4322-a12e-c424cf28aafb</HouseGuid>
+        <Corpus />
+        <Building />
+        <Appartment>40</Appartment>
+      </Fields>
+    </LivingAddress>
+    <HasNoLivingAddress>false</HasNoLivingAddress>
+    <RegAddress xsd:nil="true" />
+    <HasNoRegAddress>false</HasNoRegAddress>
+    <Phones>
+      <Phone>8 953 511 11 90</Phone>
+    </Phones>
+    <Email />
+    <IdentityDoc>
+      <ct:Title>Паспорт гражданина России</ct:Title>
+      <ct:Series>6709</ct:Series>
+      <ct:Number>838862</ct:Number>
+      <ct:Issuer>ОУФМС  России по ХМАО-Югре в г. Когалыме  Тюменской области</ct:Issuer>
+      <ct:IssueDate>2008-10-29</ct:IssueDate>
+    </IdentityDoc>
+    <IsMale>false</IsMale>
+    <FloorOfLiving>2</FloorOfLiving>
+    <PrimaryProfession>БУХГАЛТЕР</PrimaryProfession>
+    <PrimaryProfessionExperience>Общий трудовой стаж составляет 26 лет 8 месяцев</PrimaryProfessionExperience>
+    <Qualification />
+    <CurrentJob />
+    <NotWorkYears>6</NotWorkYears>
+    <EmploymentOrientationExists>false</EmploymentOrientationExists>
+    <IsRegisteredInEmploymentService>false</IsRegisteredInEmploymentService>
+  </Person>  
+</tIPRA>
