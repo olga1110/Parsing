@@ -2,18 +2,18 @@
 <tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
   <Id>9c6685d9-9426-4e56-8477-d04703f6dfa9</Id>
   <Buro>
-    <ct:ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:ShortName>
-    <ct:FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</ct:FullName>
-    <ct:Specializations />
-    <ct:Number>10</ct:Number>
-    <ct:OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:OrgName>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
   </Buro>
   <Recipient>
     <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
     <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
     <RecipientType>
-      <ct:Id>1</ct:Id>
-      <ct:Value>ОИВ субъекта РФ в сфере охраны здоровья</ct:Value>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
     </RecipientType>
   </Recipient>
   <Number>19.10.86/2018</Number>
@@ -23,23 +23,23 @@
   <Person>
     <Id>a9691031-cdd8-493b-af84-e3a5161baaaf</Id>
     <FIO>
-      <ct:LastName>Гатаулкина</ct:LastName>
-      <ct:FirstName>Амелия</ct:FirstName>
-      <ct:SecondName>Артуровна</ct:SecondName>
+      <LastName>Гатаулкина</LastName>
+      <FirstName>Амелия</FirstName>
+      <SecondName>Артуровна</SecondName>
     </FIO>
     <Age>
-      <ct:Years>3</ct:Years>
+      <Years>3</Years>
     </Age>
     <Citizenship>
-      <ct:Id>1</ct:Id>
-      <ct:Value>гражданин Российской Федерации</ct:Value>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
     </Citizenship>
     <SNILS>182-406-227 44</SNILS>
     <BirthDate>2014-05-02</BirthDate>
     <LivingAddress>
       <Type>
-        <ct:Id>1</ct:Id>
-        <ct:Value>Адрес места жительства</ct:Value>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
       </Type>
       <Value>628481, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Дружбы Народов ул, д. 40, кв. 90</Value>
       <Fields>
@@ -75,11 +75,11 @@
     </Phones>
     <Email />
     <IdentityDoc>
-      <ct:Title>Свидетельство о рождении</ct:Title>
-      <ct:Series>II-ПН</ct:Series>
-      <ct:Number>640705</ct:Number>
-      <ct:Issuer>МО ХМАО-Югры в город Когалым отдел ЗАГС</ct:Issuer>
-      <ct:IssueDate>2014-05-13</ct:IssueDate>
+      <Title>Свидетельство о рождении</Title>
+      <Series>II-ПН</Series>
+      <Number>640705</Number>
+      <Issuer>МО ХМАО-Югры в город Когалым отдел ЗАГС</Issuer>
+      <IssueDate>2014-05-13</IssueDate>
     </IdentityDoc>
     <IsMale>false</IsMale>
     <FloorOfLiving>9</FloorOfLiving>

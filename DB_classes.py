@@ -53,16 +53,14 @@ if __name__ == '__main__':
     session = sessionmaker(bind=engine)()
 
 
-    # result = session.query(CPerson).all()
-    # print(result)
+    # проверка записей в таблицах
     result = session.query(CAddress).all()
-    print(result)
-    # person_id = session.query(CPerson.id).order_by(CPerson.id.desc()).first()
-    # # order_by(User.id)
-    # print(person_id[0])
-
+    for i in result:
+        print(i)
 
     result = session.query(CPerson).all()
-    print(result)
+    for i in result:
+        print(i)
+
 
 

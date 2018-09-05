@@ -2,18 +2,18 @@
 <tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
   <Id>0db5e8ae-15cb-4fcb-ab02-19d9a122be75</Id>
   <Buro>
-    <ct:ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:ShortName>
-    <ct:FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</ct:FullName>
-    <ct:Specializations />
-    <ct:Number>10</ct:Number>
-    <ct:OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:OrgName>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
   </Buro>
   <Recipient>
     <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
     <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
     <RecipientType>
-      <ct:Id>1</ct:Id>
-      <ct:Value>ОИВ субъекта РФ в сфере охраны здоровья</ct:Value>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
     </RecipientType>
   </Recipient>
   <Number>75.10.86/2018</Number>
@@ -23,23 +23,23 @@
   <Person>
     <Id>1fa969b4-fca3-4370-825e-4f52a85318da</Id>
     <FIO>
-      <ct:LastName>Петрова</ct:LastName>
-      <ct:FirstName>Любовь</ct:FirstName>
-      <ct:SecondName>Михайловна</ct:SecondName>
+      <LastName>Петрова</LastName>
+      <FirstName>Любовь</FirstName>
+      <SecondName>Михайловна</SecondName>
     </FIO>
     <Age>
-      <ct:Years>66</ct:Years>
+      <Years>66</Years>
     </Age>
     <Citizenship>
-      <ct:Id>1</ct:Id>
-      <ct:Value>гражданин Российской Федерации</ct:Value>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
     </Citizenship>
     <SNILS>049-466-878 10</SNILS>
     <BirthDate>1951-03-27</BirthDate>
     <LivingAddress>
       <Type>
-        <ct:Id>1</ct:Id>
-        <ct:Value>Адрес места жительства</ct:Value>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
       </Type>
       <Value>628483, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Фестивальная ул, д. 10, кв. 6</Value>
       <Fields>
@@ -74,11 +74,11 @@
     </Phones>
     <Email />
     <IdentityDoc>
-      <ct:Title>Паспорт гражданина России</ct:Title>
-      <ct:Series>6703</ct:Series>
-      <ct:Number>532704</ct:Number>
-      <ct:Issuer>Когалымский ГОВД УВД ХМАО-Югры Тюменская область</ct:Issuer>
-      <ct:IssueDate>2002-03-28</ct:IssueDate>
+      <Title>Паспорт гражданина России</Title>
+      <Series>6703</Series>
+      <Number>532704</Number>
+      <Issuer>Когалымский ГОВД УВД ХМАО-Югры Тюменская область</Issuer>
+      <IssueDate>2002-03-28</IssueDate>
     </IdentityDoc>
     <IsMale>false</IsMale>
     <FloorOfLiving>4</FloorOfLiving>

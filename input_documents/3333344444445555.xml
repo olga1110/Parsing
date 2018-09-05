@@ -2,18 +2,18 @@
 <tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
   <Id>54c7bdd2-02b1-412a-b4ad-44804ada9a10</Id>
   <Buro>
-    <ct:ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:ShortName>
-    <ct:FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</ct:FullName>
-    <ct:Specializations />
-    <ct:Number>10</ct:Number>
-    <ct:OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ct:OrgName>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
   </Buro>
   <Recipient>
     <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
     <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
     <RecipientType>
-      <ct:Id>1</ct:Id>
-      <ct:Value>ОИВ субъекта РФ в сфере охраны здоровья</ct:Value>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
     </RecipientType>
   </Recipient>
   <Number>64.10.86/2018</Number>
@@ -23,23 +23,23 @@
   <Person>
     <Id>c1cae923-770d-4724-a147-2e674701d730</Id>
     <FIO>
-      <ct:LastName>Иванова</ct:LastName>
-      <ct:FirstName>Диляра</ct:FirstName>
-      <ct:SecondName>Зайнулловна</ct:SecondName>
+      <LastName>Иванова</LastName>
+      <FirstName>Диляра</FirstName>
+      <SecondName>Зайнулловна</SecondName>
     </FIO>
     <Age>
-      <ct:Years>42</ct:Years>
+      <Years>42</Years>
     </Age>
     <Citizenship>
-      <ct:Id>1</ct:Id>
-      <ct:Value>гражданин Российской Федерации</ct:Value>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
     </Citizenship>
     <SNILS>128-382-133 65</SNILS>
     <BirthDate>1976-03-07</BirthDate>
     <LivingAddress>
       <Type>
-        <ct:Id>1</ct:Id>
-        <ct:Value>Адрес места жительства</ct:Value>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
       </Type>
       <Value>628484, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Прибалтийская ул, д. 29, стр. 1, кв. 701</Value>
       <Fields>
@@ -74,11 +74,11 @@
     </Phones>
     <Email />
     <IdentityDoc>
-      <ct:Title>Паспорт гражданина России</ct:Title>
-      <ct:Series>5203</ct:Series>
-      <ct:Number>906544</ct:Number>
-      <ct:Issuer>УВД №2 Цетрального административного округа города Омска</ct:Issuer>
-      <ct:IssueDate>2002-05-03</ct:IssueDate>
+      <Title>Паспорт гражданина России</Title>
+      <Series>5203</Series>
+      <Number>906544</Number>
+      <Issuer>УВД №2 Цетрального административного округа города Омска</Issuer>
+      <IssueDate>2002-05-03</IssueDate>
     </IdentityDoc>
     <IsMale>false</IsMale>
     <FloorOfLiving>7</FloorOfLiving>
