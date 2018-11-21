@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
+  <Id>3f70b3f9-8dc6-4c2f-ad6e-895b8df899a9</Id>
+  <Buro>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
+  </Buro>
+  <Recipient>
+    <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
+    <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
+    <RecipientType>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
+    </RecipientType>
+  </Recipient>
+  <Number>69.10.86/2018</Number>
+  <ProtocolNum>107.10.86/2018</ProtocolNum>
+  <ProtocolDate>2018-03-20</ProtocolDate>
+  <IsForChild>false</IsForChild>
+  <Person>
+    <Id>db7a39e2-d1d6-44bf-8f75-635677fe8c80</Id>
+    <FIO>
+      <LastName>Сидоров</LastName>
+      <FirstName>Виктор</FirstName>
+      <SecondName>Александрович</SecondName>
+    </FIO>
+    <Age>
+      <Years>51</Years>
+    </Age>
+    <Citizenship>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
+    </Citizenship>
+    <SNILS>058-005-713 34</SNILS>
+    <BirthDate>1966-08-11</BirthDate>
+    <LivingAddress>
+      <Type>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
+      </Type>
+      <Value>628485, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Дружбы Народов ул, д. 26, кв. 88</Value>
+      <Fields>
+        <ZipCode>628486</ZipCode>
+        <Country>Российская Федерация</Country>
+        <TerritorySubjectID>86</TerritorySubjectID>
+        <TerritorySubjectName>Ханты-Мансийский Автономный округ - Югра АО</TerritorySubjectName>
+        <TerritorySubjectGuid>d66e5325-3a25-4d29-ba86-4ca351d9704b</TerritorySubjectGuid>
+        <District />
+        <DistrictGuid xsd:nil="true" />
+        <PlaceTypeId>1</PlaceTypeId>
+        <PlaceTypeName>город</PlaceTypeName>
+        <PlaceKindId>1</PlaceKindId>
+        <PlaceKindName>Городское поселение</PlaceKindName>
+        <Place>Когалым г</Place>
+        <PlaceGuid>5a08166f-cfaa-4e95-8233-f0d473883bd3</PlaceGuid>
+        <CityDistrict />
+        <Street>Дружбы Народов ул</Street>
+        <StreetGuid>0ed33ce3-0971-40e2-978d-8c497519e055</StreetGuid>
+        <House>26</House>
+        <HouseGuid>fe0ba614-27a2-4b09-a469-8da9a56ce3c9</HouseGuid>
+        <Corpus />
+        <Building />
+        <Appartment>88</Appartment>
+      </Fields>
+    </LivingAddress>
+    <HasNoLivingAddress>false</HasNoLivingAddress>
+    <RegAddress xsd:nil="true" />
+    <HasNoRegAddress>false</HasNoRegAddress>
+    <Phones>
+      <Phone>8 969 833 87 89</Phone>
+      <Phone>8 928 414 69 55</Phone>
+    </Phones>
+    <Email />
+    <IdentityDoc>
+      <Title>Паспорт гражданина России</Title>
+      <Series>6712</Series>
+      <Number>129567</Number>
+      <Issuer>ОУФМС России по ХМАО-Югре в г.Когалыме Тюменской области</Issuer>
+      <IssueDate>2011-10-03</IssueDate>
+    </IdentityDoc>
+    <IsMale>true</IsMale>
+    <FloorOfLiving>5</FloorOfLiving>
+    <PrimaryProfession>электрогазосварщик</PrimaryProfession>
+    <PrimaryProfessionExperience>Общий трудовой стаж составляет 28 лет 8 месяцев</PrimaryProfessionExperience>
+    <Qualification>6 разряд</Qualification>
+    <CurrentJob />
+    <NotWorkYears>2</NotWorkYears>
+    <EmploymentOrientationExists>false</EmploymentOrientationExists>
+    <IsRegisteredInEmploymentService>false</IsRegisteredInEmploymentService>
+  </Person>  
+</tIPRA>
