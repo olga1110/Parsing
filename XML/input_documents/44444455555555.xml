@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
+  <Id>0db5e8ae-15cb-4fcb-ab02-19d9a122be75</Id>
+  <Buro>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
+  </Buro>
+  <Recipient>
+    <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
+    <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
+    <RecipientType>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
+    </RecipientType>
+  </Recipient>
+  <Number>75.10.86/2018</Number>
+  <ProtocolNum>115.10.86/2018</ProtocolNum>
+  <ProtocolDate>2018-03-21</ProtocolDate>
+  <IsForChild>false</IsForChild>
+  <Person>
+    <Id>1fa969b4-fca3-4370-825e-4f52a85318da</Id>
+    <FIO>
+      <LastName>Петрова</LastName>
+      <FirstName>Любовь</FirstName>
+      <SecondName>Михайловна</SecondName>
+    </FIO>
+    <Age>
+      <Years>66</Years>
+    </Age>
+    <Citizenship>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
+    </Citizenship>
+    <SNILS>049-466-878 10</SNILS>
+    <BirthDate>1951-03-27</BirthDate>
+    <LivingAddress>
+      <Type>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
+      </Type>
+      <Value>628483, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Фестивальная ул, д. 10, кв. 6</Value>
+      <Fields>
+        <ZipCode>628493</ZipCode>
+        <Country>Российская Федерация</Country>
+        <TerritorySubjectID>86</TerritorySubjectID>
+        <TerritorySubjectName>Ханты-Мансийский Автономный округ - Югра АО</TerritorySubjectName>
+        <TerritorySubjectGuid>d66e5325-3a25-4d29-ba86-4ca351d9704b</TerritorySubjectGuid>
+        <District />
+        <DistrictGuid xsd:nil="true" />
+        <PlaceTypeId>1</PlaceTypeId>
+        <PlaceTypeName>город</PlaceTypeName>
+        <PlaceKindId>1</PlaceKindId>
+        <PlaceKindName>Городское поселение</PlaceKindName>
+        <Place>Когалым г</Place>
+        <PlaceGuid>5a08166f-cfaa-4e95-8233-f0d473883bd3</PlaceGuid>
+        <CityDistrict />
+        <Street>Фестивальная ул</Street>
+        <StreetGuid>d5830e76-2bb8-4276-96ae-dafa05196148</StreetGuid>
+        <House>10</House>
+        <HouseGuid>b72595d3-1352-4d81-8af1-4958131b83a6</HouseGuid>
+        <Corpus />
+        <Building />
+        <Appartment>6</Appartment>
+      </Fields>
+    </LivingAddress>
+    <HasNoLivingAddress>false</HasNoLivingAddress>
+    <RegAddress xsd:nil="true" />
+    <HasNoRegAddress>false</HasNoRegAddress>
+    <Phones>
+      <Phone>8 982 204 38 09</Phone>
+    </Phones>
+    <Email />
+    <IdentityDoc>
+      <Title>Паспорт гражданина России</Title>
+      <Series>6703</Series>
+      <Number>532704</Number>
+      <Issuer>Когалымский ГОВД УВД ХМАО-Югры Тюменская область</Issuer>
+      <IssueDate>2002-03-28</IssueDate>
+    </IdentityDoc>
+    <IsMale>false</IsMale>
+    <FloorOfLiving>4</FloorOfLiving>
+    <PrimaryProfession>НЕ ИМЕЕТ</PrimaryProfession>
+    <PrimaryProfessionExperience>ОБЩИЙ ТРУДОВОЙ СТАЖ 28 ЛЕТ 7 МЕСЯЦЕВ</PrimaryProfessionExperience>
+    <Qualification />
+    <CurrentJob />
+    <NotWorkYears>16</NotWorkYears>
+    <EmploymentOrientationExists>false</EmploymentOrientationExists>
+    <IsRegisteredInEmploymentService>false</IsRegisteredInEmploymentService>
+  </Person>  
+</tIPRA>
