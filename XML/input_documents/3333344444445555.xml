@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tIPRA xmlns:ct="http://tempuri.org/eaviias/commontypes" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" Version="2.0" xmlns="http://rosmintrud.ru/mse/eaviias/ipr/170816">
+  <Id>54c7bdd2-02b1-412a-b4ad-44804ada9a10</Id>
+  <Buro>
+    <ShortName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</ShortName>
+    <FullName>Бюро №10-филиал ФКУ "Главное бюро медико-социальной экспертизы по Ханты-Мансийскому автономному округу - Югре" Министерства труда и социальной защиты Российской Федерации</FullName>
+    <Specializations />
+    <Number>10</Number>
+    <OrgName>Бюро № 10-филиал ФКУ "ГБ МСЭ по Ханты-Мансийскому автономному округу - Югре" Минтруда России</OrgName>
+  </Buro>
+  <Recipient>
+    <Name>Департамент здравоохранения Ханты-Мансийского автономного округа-Югры</Name>
+    <Address>628001, Ханты-Мансийский Автономный округ - Югра АО, Ханты-Мансийск г, Карла Маркса ул, д. 32</Address>
+    <RecipientType>
+      <Id>1</Id>
+      <Value>ОИВ субъекта РФ в сфере охраны здоровья</Value>
+    </RecipientType>
+  </Recipient>
+  <Number>64.10.86/2018</Number>
+  <ProtocolNum>99.10.86/2018</ProtocolNum>
+  <ProtocolDate>2018-03-19</ProtocolDate>
+  <IsForChild>false</IsForChild>
+  <Person>
+    <Id>c1cae923-770d-4724-a147-2e674701d730</Id>
+    <FIO>
+      <LastName>Иванова</LastName>
+      <FirstName>Диляра</FirstName>
+      <SecondName>Зайнулловна</SecondName>
+    </FIO>
+    <Age>
+      <Years>42</Years>
+    </Age>
+    <Citizenship>
+      <Id>1</Id>
+      <Value>гражданин Российской Федерации</Value>
+    </Citizenship>
+    <SNILS>128-382-133 65</SNILS>
+    <BirthDate>1976-03-07</BirthDate>
+    <LivingAddress>
+      <Type>
+        <Id>1</Id>
+        <Value>Адрес места жительства</Value>
+      </Type>
+      <Value>628484, Ханты-Мансийский Автономный округ - Югра АО, Когалым г, Прибалтийская ул, д. 29, стр. 1, кв. 701</Value>
+      <Fields>
+        <ZipCode>628484</ZipCode>
+        <Country>Российская Федерация</Country>
+        <TerritorySubjectID>86</TerritorySubjectID>
+        <TerritorySubjectName>Ханты-Мансийский Автономный округ - Югра АО</TerritorySubjectName>
+        <TerritorySubjectGuid>d66e5325-3a25-4d29-ba86-4ca351d9704b</TerritorySubjectGuid>
+        <District />
+        <DistrictGuid xsd:nil="true" />
+        <PlaceTypeId>1</PlaceTypeId>
+        <PlaceTypeName>город</PlaceTypeName>
+        <PlaceKindId>1</PlaceKindId>
+        <PlaceKindName>Городское поселение</PlaceKindName>
+        <Place>Когалым г</Place>
+        <PlaceGuid>5a08166f-cfaa-4e95-8233-f0d473883bd3</PlaceGuid>
+        <CityDistrict />
+        <Street>Прибалтийская ул</Street>
+        <StreetGuid>f88812fe-344b-46b8-a1ed-0c8a915fd8b6</StreetGuid>
+        <House>29</House>
+        <HouseGuid>2556d76a-1ee0-47d9-aaff-886daa26e200</HouseGuid>
+        <Corpus />
+        <Building>1</Building>
+        <Appartment>701</Appartment>
+      </Fields>
+    </LivingAddress>
+    <HasNoLivingAddress>false</HasNoLivingAddress>
+    <RegAddress xsd:nil="true" />
+    <HasNoRegAddress>false</HasNoRegAddress>
+    <Phones>
+      <Phone>8 951 513 4695</Phone>
+    </Phones>
+    <Email />
+    <IdentityDoc>
+      <Title>Паспорт гражданина России</Title>
+      <Series>5203</Series>
+      <Number>906544</Number>
+      <Issuer>УВД №2 Цетрального административного округа города Омска</Issuer>
+      <IssueDate>2002-05-03</IssueDate>
+    </IdentityDoc>
+    <IsMale>false</IsMale>
+    <FloorOfLiving>7</FloorOfLiving>
+    <PrimaryProfession />
+    <PrimaryProfessionExperience>Общий трудовой стаж составляет</PrimaryProfessionExperience>
+    <Qualification />
+    <CurrentJob>должность - КЛАДОВЩИК</CurrentJob>
+    <EmploymentOrientationExists>true</EmploymentOrientationExists>
+    <IsRegisteredInEmploymentService>false</IsRegisteredInEmploymentService>
+  </Person>
+  </tIPRA>
